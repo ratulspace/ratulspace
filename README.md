@@ -152,10 +152,3 @@
 <img title="Top Languages" alt="Md. Rakibul Islam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulspace&langs_count=30&count_private=true&theme=nord&hide_border=true" /></a>
 <br/>
 <b>Note:</b> Top languages are only a metric of the languages of my public code consists of and doesn't reflect experience or skill level.</p>
-
-
-## My Contribution Graph:
-
-<p align="Center">
-<a href="#">
-<img title="Activity Graph" alt="Md. Rakibul Islam's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=ratulspace&theme=nord&hide_border=true" /></a></p>

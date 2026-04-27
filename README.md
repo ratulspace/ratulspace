@@ -9,7 +9,7 @@
 <a href = "#"><img title="Instagram" alt="Instagram" src="https://img.icons8.com/fluency/35/4a90e2/instagram-new.png" /></a>
 <a href = "#"><img title="WhatsApp" alt="WhatsApp" src="https://img.icons8.com/fluency/35/4a90e2/whatsapp.png" /></a>
 <a href = "#"><img title="Telegram" alt="Telegram" src="https://img.icons8.com/color/35/000000/telegram-app--v1.png" /></a>
-<a href = "https://www.linkedin.com/in/mdrakibulislam-zero/"><img title="LinkedIn" alt="LinkedIn" src="https://img.icons8.com/color/35/4a90e2/linkedin.png" /></a>
+<a href = "#"><img title="LinkedIn" alt="LinkedIn" src="https://img.icons8.com/color/35/4a90e2/linkedin.png" /></a>
 <a href = "#"><img title="Twitter" alt="Twitter" src="https://img.icons8.com/ios-filled/35/4a90e2/twitter.png" /></a>
 <a href = "#"><img title="Skype" alt="Skype" src="https://img.icons8.com/color/35/4a90e2/skype.png" /></a>
 <a href = "#"><img title="YouTube" alt="YouTube" src="https://img.icons8.com/fluency/35/4a90e2/youtube-play.png" /></a>

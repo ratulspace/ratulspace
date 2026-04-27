@@ -17,9 +17,9 @@
 
 <p align="center">
 <a href="#">
-<img title="Profile views" alt="Profile views" src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero" alt="GitHub Badge"></a>
+<img title="Profile views" alt="Profile views" src="https://komarev.com/ghpvc/?username=ratulspace" alt="GitHub Badge"></a>
 <a href="#">
-<img title="Followers" alt="Followers" src="https://img.shields.io/github/followers/mdrakibulislam-zero?label=Followers&style=social" alt="GitHub Badge"></a>
+<img title="Followers" alt="Followers" src="https://img.shields.io/github/followers/ratulspace?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 

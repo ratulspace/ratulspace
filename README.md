@@ -20,8 +20,6 @@
 <img title="Profile views" alt="Profile views" src="https://komarev.com/ghpvc/?username=mdrakibulislam-zero" alt="GitHub Badge"></a>
 <a href="#">
 <img title="Followers" alt="Followers" src="https://img.shields.io/github/followers/mdrakibulislam-zero?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="#">
-<img title="Contributions" alt="Contributions" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?label=Contributions&query=totalContributions&url=https://github-readme-streak-stats.herokuapp.com?user=mdrakibulislam-zero%26type=json" alt="GitHub Badge"></a>
 </p>
 
 
